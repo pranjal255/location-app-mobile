@@ -178,7 +178,6 @@ This project is licensed under the MIT License.
 ## 🔗 Related Repositories
 
 - [Backend API](https://github.com/pranjal255/location-app-backend) - Node.js backend server
-- [Main Project](https://github.com/pranjal255/location-app-project) - Project overview and documentation
 
 ## 🤝 Contributing
 
